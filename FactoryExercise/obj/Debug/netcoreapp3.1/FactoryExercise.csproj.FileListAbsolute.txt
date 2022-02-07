@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/bin/Debug/netcoreapp3.1/FactoryExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/bin/Debug/netcoreapp3.1/FactoryExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/bin/Debug/netcoreapp3.1/FactoryExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/bin/Debug/netcoreapp3.1/FactoryExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/bin/Debug/netcoreapp3.1/FactoryExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryExercise/FactoryExercise/obj/Debug/netcoreapp3.1/FactoryExercise.genruntimeconfig.cache

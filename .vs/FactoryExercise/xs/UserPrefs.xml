@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BB962A7D-A97D-45E0-845D-356ADFC3349A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryExercise/VehicleFactory.cs">
+    <Files>
+      <File FileName="FactoryExercise/Program.cs" Line="1" Column="1" />
+      <File FileName="FactoryExercise/IVehicle.cs" Line="6" Column="29" />
+      <File FileName="FactoryExercise/Car.cs" Line="12" Column="51" />
+      <File FileName="FactoryExercise/EmptyClass.cs" Line="16" Column="1" />
+      <File FileName="FactoryExercise/VehicleFactory.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryExercise" expanded="True">
+            <Node name="FactoryExercise" expanded="True">
+              <Node name="VehicleFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FactoryExercise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
